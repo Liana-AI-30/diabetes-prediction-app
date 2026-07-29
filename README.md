@@ -23,10 +23,12 @@ Deployment: Streamlit Cloud with custom Glassmorphism UI styling.
 
  📁 Project Structure
 diabetes-prediction-app/
-│── app.py                  # Main Streamlit Web Application
-│── style.css               # Custom Glassmorphism UI Styling
-│── diabetes_model.pkl      # Trained Logistic Regression Model
-│── scaler.pkl              # Fitted StandardScaler File
-│── requirements.txt        # Python Dependencies
-└── README.md               # Project Documentation
+## 📁 Project File Directory
+
+* 🚀 **`app.py`** – Streamlit web application interface and inference loop.
+* 🎨 **`style.css`** – Custom CSS stylesheet for UI enhancements (Glassmorphism layout).
+* 🧠 **`diabetes_model.pkl`** – Pre-trained Logistic Regression classification model.
+* 📏 **`scaler.pkl`** – Saved `StandardScaler` for input feature standardization.
+* 📦 **`requirements.txt`** – Dependencies list for deployment environment setup.
+* 📖 **`README.md`** – Comprehensive project summary and documentation.
 
