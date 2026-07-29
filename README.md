@@ -21,8 +21,7 @@ Deployment: Streamlit Cloud with custom Glassmorphism UI styling.
 
  🛠️ Built With* `Python` | `Pandas` | `Scikit-Learn` | `Streamlit` | `Joblib` | `CSS`
 
- 📁 Project Structure
-diabetes-prediction-app/
+
 ## 📁 Project File Directory
 
 * 🚀 **`app.py`** – Streamlit web application interface and inference loop.
